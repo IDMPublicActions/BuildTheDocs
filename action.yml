@@ -110,7 +110,7 @@ runs:
               echo '** Uploading Text Build Tar file **'
               az storage blob upload-batch \
                 --source ${{ inputs.working_directory }}/_tar \
-                --destination '${{ inputs.blob_container_name}}/${{ inputs.target_location }}/${{ inputs.tar_target_folder }}') \
+                --destination '${{ inputs.blob_container_name}}/${{ inputs.target_location }}/${{ inputs.tar_target_folder }}' \
                 --account-name ${{ inputs.account_name }} \ 
                 --overwrite true \
                 --auth-mode key
