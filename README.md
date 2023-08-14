@@ -3,7 +3,7 @@ Build the pre-release readthedocs
 
 ## Name: Sphinx Azure Upload
 **Description:** Installs Sphinx, builds HTML docs, and uploads to Azure Blob storage  
-**Author:** Minerva Gomez Cuenca
+**Author:** Minerva Enriquez
 
 ## Inputs
 - **Working Directory:**
@@ -71,6 +71,8 @@ Build the pre-release readthedocs
 
 
 ## Sample
+Worflow sample: https://github.com/menriquez-IDM/emodpy-hiv-fork/actions/runs/5860681361/workflow
+
 ```
 . . . 
 
