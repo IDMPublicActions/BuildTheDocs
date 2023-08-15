@@ -2,7 +2,7 @@
 Build the pre-release readthedocs
 
 ## Name: Sphinx Azure Upload
-**Description:** Installs Sphinx, builds HTML docs, and uploads to Azure Blob storage  
+**Description:** Builds HTML docs, and uploads to Azure Blob storage  
 **Author:** Minerva Enriquez
 
 ## Inputs
