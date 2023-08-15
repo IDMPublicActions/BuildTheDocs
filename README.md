@@ -71,7 +71,9 @@ Build the pre-release readthedocs
 
 
 ## Sample
-Worflow sample: https://github.com/menriquez-IDM/emodpy-hiv-fork/actions/runs/5860681361/workflow
+Worflow sample:
+[Implementation example on emodpy-hiv](https://github.com/InstituteforDiseaseModeling/emodpy-hiv/blob/8255d344620976af2dfb7d7184569a1da912d795/.github/workflows/emodpy-hiv-docs-rebuild.yml#L41)
+_</br>Please note that example above is for internal access only_
 
 ```
 . . . 
